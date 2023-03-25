@@ -72,7 +72,3 @@ Bu sesli asistan için kullanılabilecek komuların listesi;
 64) Joker'e linkedin'i açtırabilirsiniz
 65) Joker'e tumblr'ı açtırabilirsiniz
 66) Joker'e TikTok'u açtırabilirsiniz
-
-NLP texnologys
-
-
