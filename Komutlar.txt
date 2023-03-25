@@ -1,0 +1,78 @@
+Bu sesli asistan için kullanılabilecek komuların listesi;
+
+1) Joker'e kendisinden bahsetmesini isteyebilirisiniz.
+2) Joker'e günlük hayatta konuşulan(nasılsın vb.) sorular sorabilirisniz.
+3) Joker'e sizi dinleyip dinlemediğini sorabilirsiniz.
+4) Joker'e olduğunuz gün bilgisi sorabilirsiniz
+5) Joker'e olduğunuz ay bilgisini sorabilirsiniz
+6) Joker'e yapay zeka ve insanlık hakkında soru sorabilirsiniz
+7) Joker'e gelecek hakkında soru sorabilirsiniz. 
+8) Joker'e hava durumu sorabilirsiniz. (Hava durumu için size bir pencere açar ve girdiğiniz şehre göre hava durumunu görebilirsiniz)
+9) Joker'e hangi yüzyılda bilgisini sorabilirsiniz
+10) Joker'e kim tarafından üretildiği hakkında soru sorabilirisniz
+
+11) Joker'e spotify'ı açtırabilirsiniz
+12) Joker'e discord'u açtırabilirsiniz
+13) Joker'e dosya gezginini açtırabilirsiniz
+14) Joker'e e-mail'i açtırabilirsiniz
+15) Joker'e onedrive'ı açtırabilirsiniz
+16) Joker'e harita'yı açtırabilirsiniz
+17) Joker'e google haberler'i açtırabilirsiniz
+18) Joker'e google meet'i açtırabilirsiniz
+19) Joker'e google chat'i açtırabilirsiniz
+20) Joker'e google takvim'i açtırabilirsiniz
+
+21) Joker'e google fotoğraflar'ı açtırabilirsiniz
+22) Joker'e google reklam merkezi'ni açtırabilirsiniz
+23) Joker'e google alışveriş'i açtırabilirsiniz
+24) Joker'e google finans'ı açtırabilirsiniz
+25) Joker'e google dökümanlar'ı açtırabilirsiniz
+26) Joker'e google e-tablolar'ı açtırabilirsiniz
+27) Joker'e google slayt'ı açtırabilirsiniz
+28) Joker'e google kitaplar'ı açtırabilirsiniz
+29) Joker'e google blogger'ı açtırabilirsiniz
+
+30) Joker'e google keep'i açtırabilirsiniz
+31) Joker'e google jamboard'ı açtırabilirsiniz
+32) Joker'e google classroom'u açtırabilirsiniz
+33) Joker'e google earth'ı açtırabilirsiniz
+34) Joker'e google koleyksiyonlar'ı açtırabilirsiniz
+35) Joker'e google sanat ve kültür'ü açtırabilirsiniz
+36) Joker'e google ads'yi açtırabilirsiniz
+37) Joker'e google podcasts'i açtırabilirsiniz
+38) Joker'e google one'ı açtırabilirsiniz
+39) Joker'e google seyehat'ı açtırabilirsiniz
+
+40) Joker'e google formlar'ı açtırabilirsiniz
+41) Joker'e google'ı açtırabilirsiniz
+42) Joker'e YouTube'yi açtırabilirsiniz
+43) Joker'e yemek sepeti'ni açtırabilirsiniz
+44) Joker'e trendyol'u açtırabilirsiniz
+45) Joker'e hepsiburada'yı açtırabilirsiniz
+46) Joker'e çiçek sepeti'ni açtırabilirsiniz
+47) Joker'e getir'i açtırabilirsiniz
+48) Joker'e cimri'yi açtırabilirsiniz
+49) Joker'e amazon'u açtırabilirsiniz
+
+50) Joker'e e-bay'ı açtırabilirsiniz
+51) Joker'e ziraat bankası sitesi'ni açtırabilirsiniz
+52) Joker'e iş bankası sitesi'ni açtırabilirsiniz
+53) Joker'e halk bankası sitesi'ni açtırabilirsiniz
+54) Joker'e finans bankası sitesi'ni açtırabilirsiniz
+55) Joker'e trivago'yu açtırabilirsiniz
+56) Joker'e otobüs bileti için o bilet.com'u  açtırabilirsiniz
+57) Joker'e uçak bileti için o bilet.com'u  açtırabilirsiniz
+58) Joker'e google'ı açtırabilirsiniz
+59) Joker'e google'ı açtırabilirsiniz
+
+60) Joker'e instagram'ı açtırabilirsiniz
+61) Joker'e facebook'ı açtırabilirsiniz
+62) Joker'e twitter'ı açtırabilirsiniz
+63) Joker'e wordpress'i açtırabilirsiniz
+64) Joker'e linkedin'i açtırabilirsiniz
+65) Joker'e tumblr'ı açtırabilirsiniz
+66) Joker'e TikTok'u açtırabilirsiniz
+
+NLP texnologys
+
+
